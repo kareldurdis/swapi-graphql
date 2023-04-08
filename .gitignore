@@ -1,3 +1,4 @@
+.idea
 /lib
 /netlify-lambda-lib
 /public/schema.js
